@@ -27,7 +27,7 @@ $(function()
     }, 
     {
 		artist: "...",
-		name: "Là Anh (Phạm Lịch)",
+		name: "Là Anh ",
 		url: "MP3/LaAnh.mp3",
     },
     {
