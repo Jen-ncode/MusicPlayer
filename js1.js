@@ -73,7 +73,7 @@ $(function()
     {
 		artist: "...",
 		name: "Dự báo thời tiết hôm nay mưa",
-		url: "MP3/DuaBaoThoiTietHomNayMua.mp3",
+		url: "MP3/DuBaoThoiTietHomNayMua.mp3",
     },
     {
 		artist: "...",
